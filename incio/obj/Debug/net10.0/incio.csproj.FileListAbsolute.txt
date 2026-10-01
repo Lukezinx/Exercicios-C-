@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\bin\Debug\net10.0\incio.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\bin\Debug\net10.0\incio.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\bin\Debug\net10.0\incio.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\bin\Debug\net10.0\incio.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\bin\Debug\net10.0\incio.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\refint\incio.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\incio.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\incio\obj\Debug\net10.0\ref\incio.dll

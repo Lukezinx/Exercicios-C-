@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\bin\Debug\net10.0\exercicioPalidromo.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\bin\Debug\net10.0\exercicioPalidromo.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\bin\Debug\net10.0\exercicioPalidromo.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\bin\Debug\net10.0\exercicioPalidromo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\bin\Debug\net10.0\exercicioPalidromo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\refint\exercicioPalidromo.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\exercicioPalidromo.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\exercicios modulo 4\exercicioPalidromo\obj\Debug\net10.0\ref\exercicioPalidromo.dll
