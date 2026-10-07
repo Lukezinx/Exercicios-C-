@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\bin\Debug\net10.0\SimuladorCarteiraDeInvestimentos.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\bin\Debug\net10.0\SimuladorCarteiraDeInvestimentos.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\bin\Debug\net10.0\SimuladorCarteiraDeInvestimentos.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\bin\Debug\net10.0\SimuladorCarteiraDeInvestimentos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\bin\Debug\net10.0\SimuladorCarteiraDeInvestimentos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.sourcelink.json
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\refint\SimuladorCarteiraDeInvestimentos.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\SimuladorCarteiraDeInvestimentos.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\C#\SimuladorCarteiraDeInvestimentos\obj\Debug\net10.0\ref\SimuladorCarteiraDeInvestimentos.dll
