@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicioPalidromo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba8dafa952aa2cda0c8c0354ef188b6a64db3f0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicioPalidromo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicioPalidromo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
